@@ -1,3 +1,4 @@
+
 var streamapiUrl =
     'https://streaming-availability.p.rapidapi.com/search/basic'
 var streamapikey = 'dcffafa5ebmsh1afad269880e603p159a0fjsn981c2d101bf7'
