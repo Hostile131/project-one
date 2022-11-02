@@ -19,4 +19,4 @@ SO THAT I can find out what streaming service(s) it's available on.
 ![Screenshot of project one](./Assets/images/Screenshot%20of%20project%20one.png)
 
 # Deployed Application Link
-- [This is a website!](https://yangma.github.io/project-one/)
+- [This is a website!](https://yangma30.github.io/project-one/)
